@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isActiveBoldTab" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-523a229e:18839e5463c:-8000" />
+    <option name="version" value="8.6.4" />
+    <option name="tabFont" value="Microsoft YaHei UI" />
+  </component>
+</application>
