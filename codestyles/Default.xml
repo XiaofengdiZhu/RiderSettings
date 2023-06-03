@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <XML>
+    <option name="XML_ATTRIBUTE_WRAP" value="0" />
+    <option name="XML_KEEP_LINE_BREAKS" value="false" />
+  </XML>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
